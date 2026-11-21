@@ -16,5 +16,5 @@ Engineering Manager / Full-Stack Software Engineer based in Japan.
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## 📫 Links
-- X: [@kyoshidaxx](https://x.com/kyoshidaxx)
-- SpeakerDeck: [@kyoshidaxx](https://speakerdeck.com/kyoshidaxx)
+- [X: @theyoshida3](https://x.com/theyoshida3)
+- [SpeakerDeck](https://speakerdeck.com/kyoshidaxx)
